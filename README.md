@@ -2,4 +2,6 @@
 
 ## Battle Royale: 8
 ## Reloaded: 2
-## OG: 2
+## OG: 3
+
+
