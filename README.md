@@ -1,6 +1,6 @@
 # 49 Stats
 
-## Battle Royale: 9
+## Battle Royale: 10
 ## Reloaded: 7
 ## OG: 4
 
